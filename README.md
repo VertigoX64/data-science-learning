@@ -10,6 +10,8 @@ https://github.com/nborwankar/LearnDataScience
 
 https://github.com/donnemartin/data-science-ipython-notebooks
 
+https://github.com/jakevdp/PythonDataScienceHandbook
+
 # Links regarding Apache Spark and Python (PySpark):
 
 https://annefou.github.io/pyspark/ 
